@@ -49,7 +49,7 @@
 // 	rollno : 12 
 // }
 // const student2 = {
-// 	name : "David Rayy",q97
+// 	name : "David Rayy",
 
 // 	sclass : "VI",
 // 	rollno : 12,
